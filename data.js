@@ -11,7 +11,7 @@
 window.DASHBOARD_DATA = {
   profile: {
     name: "凌之",
-    lang: "rust",
+    lang: "JavaScript",
   },
   sections: [
     {
